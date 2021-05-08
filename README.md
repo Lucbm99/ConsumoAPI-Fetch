@@ -22,7 +22,7 @@ Sublime Text: https://www.sublimetext.com/
 
 ## 2 - Após isso, é necessário clicar no arquivo index.html, para que o arquivo seja aberto em seu navegador. 
 
-
+![image](https://user-images.githubusercontent.com/45500959/117520000-7fced900-af7c-11eb-9be3-1a6fe63f656c.png)
 
 ## 📦 Status da aplicação
 
